@@ -52,6 +52,19 @@ Buka browser dan akses:
 http://localhost/shop-online
 ```
 
+## 🚀 Deployment ke Production
+
+Aplikasi ini sudah siap untuk di-deploy ke platform cloud seperti Railway.com, Heroku, atau VPS lainnya menggunakan Docker.
+
+**📖 Panduan Lengkap:** Lihat [DEPLOYMENT.md](DEPLOYMENT.md) untuk instruksi step-by-step deployment ke Railway.com
+
+**Quick Deploy ke Railway:**
+1. Push code ke Git repository
+2. Connect repository ke Railway
+3. Add MySQL database service
+4. Configure environment variables
+5. Deploy!
+
 ## 👤 Akun Demo
 
 **Admin:**

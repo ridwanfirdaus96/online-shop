@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Git
+.git/
+.gitignore
+
+# Development files
+*.md
+!README.md
+!DEPLOYMENT.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local config
+.env
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
